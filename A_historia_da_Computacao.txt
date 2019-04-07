@@ -12,7 +12,7 @@
 
 -1946 -> Entrou em funcionamento o ENIAC(Electronic Numerical Integrator and Computer), o primeiro computador digital eletrônico por meio dos cientistas norte-americanos John Eckert e John Mauchly, da Electronic Control Company. Ele foi desenvolvido na segunda Guerra Mundial para computar trajetórias táticas que exigissem conhecimento substancial em matemática, mas só se tornou operacional após o final da guerra.
 
--1952 -> A analista de sistemas da marinha Grace Hopper, escreveu o primeiro compilador, para a linguagem A-0, convertia a especificação em código de máquina que podia ser armazenado em um computador uma segunda vez para executar o programa.
+-1952 -> A analista de sistemas da marinha Grace Hopper, escreveu o primeiro compilador, para a linguagem A-0,que convertia a especificação em código de máquina que podia ser armazenado em um computador uma segunda vez para executar o programa.
 
 -1957 -> Criado o General Problem Solver, também conhecido como GPS, pelo economista Herbert Alexander Simon, pelo programador J. Cliff Shaw e pelo pesquisador da ciência da computação e psicólogo cognitivo Allen Newell, inicialmente sendo designado para ser uma máquina para a resolução de problemas de natureza matemática. Foi o primeiro programa de computador que separa va seu conhecimento dos problemas de sua estrategia para resolvê-los.
 
